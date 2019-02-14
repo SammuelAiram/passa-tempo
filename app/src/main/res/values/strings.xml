@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PassaTempo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="estas_s_o_as_principais_not_cias">Estas são as principais notícias:</string>
+    <string name="not_cias_t_cnicas_que_voc_pode_usar">Notícias técnicas que você pode usar:</string>
+    <string name="dicas_de_culin_ria">dicas de culinária:</string>
+    <string name="tab_label1">Melhores historias</string>
+    <string name="tab_label2">Conversão</string>
+    <string name="tab_label3">Perfil</string>
+    <string name="noticias_principais">Educação física é o curso mais concorrido da Universidade Estadual do Piauí (UESPI) no Sistema de Seleção Unificada (Sisu) 2019. De acordo com a Instituição de Ensino Superior (IES), foram 1.581 inscritos e uma concorrência de 45,17 candidatos por vaga. Enfermagem e Medicina ficaram em segundo e terceiro lugar com 34,96 e 34,34 candidatos por vaga, respectivamente. Segundo a UESPI, essa é a quarta vez consecutiva que o curso de licenciatura plena em educação física do campus Poeta Torquato Neto, localizado no bairro Pirajá, zona Norte de Teresina, é o mais procurado dentre as graduações da instituição. A IES informou que recebeu inscrições, através do Sisu, de mais de 20 estados. Ao todo, a UESPI teve 68.838 inscritos no Sisu 2019 disputando 3.805 vagas, sendo 1.116 para cotistas, distribuídas em 101 cursos de modalidade presencial, nos 12 campi da instituição, localizados em Teresina, Bom Jesus, Campo Maior, Corrente, Floriano, Oeiras, Parnaíba, Picos, Piripiri, São Raimundo Nonato e Uruçuí. Matrícula A matrícula institucional, que corresponde à entrega da documentação dos candidatos classificados, é feita de forma presencial no campus do curso para o qual foi aprovado, no horário de 8h às 13h (horário do Piauí). Os candidatos que não comparecerem na data prevista, ou que não apresentarem a documentação exigida, serão considerados desistentes. Aqueles que não aprovados na primeira chamada devem, entre os dias 29 de janeiro e 05 de fevereiro, acessar o site do Sisu e manifestar interesse na vaga pretendida. Depois, o candidato deverá comparecer pessoalmente ao campus para o qual está concorrendo para assinar a lista.</string>
+</resources>

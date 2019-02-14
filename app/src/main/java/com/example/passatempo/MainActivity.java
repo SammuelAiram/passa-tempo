@@ -24,6 +24,9 @@ public class MainActivity extends AppCompatActivity {
         lista.add(new Livro("Piratas do caribe", "Thiago", 30));
 
 
+
+
+
         TabLayout tabLayout = findViewById(R.id.tab_layout);
 // Set the text for each tab.
         tabLayout.addTab(tabLayout.newTab().setText(R.string.tab_label1));

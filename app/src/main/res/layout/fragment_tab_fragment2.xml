@@ -7,7 +7,7 @@
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
-        android:id="@+id/fotos"
+        android:id="@+id/list_livro"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/not_cias_t_cnicas_que_voc_pode_usar"
@@ -15,9 +15,10 @@
         android:textSize="15dp"/>
 
     <ListView
-        android:layout_below="@id/fotos"
+        android:layout_below="@id/list_livro"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+
 
     </ListView>
 
